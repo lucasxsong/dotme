@@ -6,6 +6,8 @@
     - Sys Pref
         - auto hide dock & menu bar: zenned out! 
 
+## Applications
+
 - Firefox Developer Edition: great webdev tools
     - uBlock: adblock
     - Add to Notion: save links for later
